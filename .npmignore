@@ -1,0 +1,8 @@
+.github
+CHANGELOG.md
+node_modules
+othershit
+research.md
+.vscode
+.gitignore
+test/

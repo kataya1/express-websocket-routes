@@ -1,0 +1,28 @@
+{
+  "name": "express-websocket-routes",
+  "version": "0.0.1",
+  "description": "Add horizontally and vertically scalable websocket parametrized routing capability to express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kataya1/express-websocket-routes.git"
+  },
+  "keywords": [
+    "express",
+    "websockets",
+    "ws",
+    "express-socket-routes",
+    "routing",
+    "API",
+    "route"
+  ],
+  "author": "kataya1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kataya1/express-websocket-routes/issues"
+  },
+  "homepage": "https://github.com/kataya1/express-websocket-routes#readme"
+}
